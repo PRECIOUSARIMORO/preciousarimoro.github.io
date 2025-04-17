@@ -23,7 +23,7 @@ Here are some projects featured on my portfolio:
   Wrote complex SQL queries to optimize inventory management, reducing stockouts by 15%.  
   
 
-Visit **[preciousarimoro.github.io](https://preciousarimoro.github.io** for more projects and details!
+Visit **[preciousarimoro.github.io](https://preciousarimoro.github.io)** for more projects and details!
 
 ### **Tech Stack** 🛠️
 - **Frontend**: HTML, CSS, JavaScript (Massively template from HTML5UP)
