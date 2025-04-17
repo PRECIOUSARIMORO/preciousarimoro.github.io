@@ -1,32 +1,47 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+## **Precious's Data Analysis Portfolio** 
+
+Welcome to my data analysis portfolio! I'm Precious, a passionate data analyst skilled in turning raw data into actionable insights. This repository powers my personal portfolio website, hosted at **[https://preciousarimoro.github.io/](https://preciousarimoro.github.io**, built with the **Massively** template from HTML5UP.
+
+### **About Me** 👩‍💻
+I'm a data enthusiast with expertise in:
+- **Tools**: Python (Pandas, NumPy, Scikit-learn), SQL, Tableau, Excel
+- **Skills**: Data cleaning, statistical analysis, data visualization, machine learning
+- **Mission**: To uncover stories hidden in data and drive impactful decisions
+
+Explore my projects to see how I analyze data, create visualizations, and solve real-world problems!
+
+### **Portfolio Highlights** ✨
+Here are some projects featured on my portfolio:
+- **Customer Churn Prediction**  
+  Used Python and Scikit-learn to build a logistic regression model, achieving 85% accuracy in predicting customer churn. Visualized insights with Seaborn.  
+ 
+- **Sales Dashboard in Tableau**  
+  Designed an interactive dashboard to track sales performance across regions, identifying a 20% revenue increase opportunity.  
+  
+- **SQL Inventory Analysis**  
+  Wrote complex SQL queries to optimize inventory management, reducing stockouts by 15%.  
+  
+
+Visit **[preciousarimoro.github.io](https://preciousarimoro.github.io** for more projects and details!
+
+### **Tech Stack** 🛠️
+- **Frontend**: HTML, CSS, JavaScript (Massively template from HTML5UP)
+- **Data Analysis**: Python, SQL, R, Tableau, Excel
+- **Version Control**: Git, GitHub
+- **Hosting**: GitHub Pages
+
+### **Get in Touch** 📬
+- **LinkedIn**: [https://www.linkedin.com/in/precious-arimoro/](https://www.linkedin.com/in/precious-arimoro/)
+- **Email**: [preciousjolade@gmail.com](preciousjolade@gmail.com)
+- **GitHub**:[https://github.com/PRECIOUSARIMORO](https://github.com/PRECIOUSARIMORO)
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### **What's Next?** 🚀
+I'm always learning and adding new projects. Upcoming goals:
+- Build a machine learning model for time-series forecasting.
+- Create more interactive dashboards with Power BI.
+- Contribute to open-source data projects.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thanks for visiting! Feel free to star ⭐ this repo if you find it inspiring.
